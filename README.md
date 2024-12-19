@@ -1,0 +1,1 @@
+Crypto with endpoints to dynamically handle encryption, decryption, hashing, and key generation. We can perform crypto operations via HTTP requests. This allows dynamic operation  by passing the operation type (e.g., operation, algorithm, data, key, keytype, keysize) as a parameter.
